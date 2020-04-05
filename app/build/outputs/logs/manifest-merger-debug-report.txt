@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9f501c96e2313835b04e7de07262835c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9f501c96e2313835b04e7de07262835c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9f501c96e2313835b04e7de07262835c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.rrifafauzikomara.biodatadiri.Login
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:14:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.rrifafauzikomara.biodatadiri.DataDiri
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:21:19-43
+activity#com.example.rrifafauzikomara.biodatadiri.MainActivity
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.rrifafauzikomara.biodatadiri.UpdateDataDiri
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:23:9-52
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:23:19-49
+activity#com.example.rrifafauzikomara.biodatadiri.MenuUtama
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:24:19-44
+activity#com.example.rrifafauzikomara.biodatadiri.Register
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:25:19-43
+activity#com.example.rrifafauzikomara.biodatadiri.DataUser
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:26:9-46
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:26:19-43
+activity#com.example.rrifafauzikomara.biodatadiri.UpdateUser
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:27:19-45
+activity#com.example.rrifafauzikomara.biodatadiri.Makanan
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:28:9-45
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:28:19-42
+activity#com.example.rrifafauzikomara.biodatadiri.DataMakanan
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:29:9-49
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:29:19-46
+activity#com.example.rrifafauzikomara.biodatadiri.UpdateMakanan
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:30:9-51
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:30:19-48
+activity#com.example.rrifafauzikomara.biodatadiri.Minuman
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:31:9-45
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:31:19-42
+activity#com.example.rrifafauzikomara.biodatadiri.DataMinuman
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:32:19-46
+activity#com.example.rrifafauzikomara.biodatadiri.UpdateMinuman
+ADDED from D:\cafe\app\src\main\AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml:33:19-48
+uses-sdk
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9f501c96e2313835b04e7de07262835c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9f501c96e2313835b04e7de07262835c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+		ADDED from D:\cafe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cafe\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\ffbd598866ea07597fdf8d32fe979ce3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\393e58a5256d8094c260e354d1fdcd0f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\bf074537ded6e7d6e93dc9a311134fcc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\8feb1c32421ec4ee270b069b9fca6208\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\4cef316e48a953a48c911636a8e1948f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\c0714102eed68b849c94499a8caa68b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\271aae17373c54aac61cb40ac6ff2e56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\709e10614202b4d5be979230bace2f1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\cb7f72ef58a11feb89917f34a6a96130\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\7882d0ce204d54ddb581d76703668979\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\acc66f03936db2006d45bacc4b3ebfcf\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.2] C:\Users\ONYXMASTA\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\3effb49b3a118ba5376d068b3c26fb7c\AndroidManifest.xml:27:13-51
